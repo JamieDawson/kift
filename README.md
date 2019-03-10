@@ -4,7 +4,7 @@
 
 1. Clone and and enter repository:
 ```
-git clone https://github.com/pstringe/KIFT
+git clone https://github.com/JamieDawson/KIFT
 cd KIFT
 ```
 

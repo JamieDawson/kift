@@ -45,3 +45,7 @@ make setup
 * SENDSMS
 * TEAM
 * WEATHER
+
+
+Credits:
+JamieDawson, [pstringe](https://github.com/pstringe), [maljean](https://github.com/Maljean), [dsotomay](https://github.com/dsotomay)

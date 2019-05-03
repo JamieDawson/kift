@@ -1,3 +1,5 @@
+KIFT is a program that can be controlled through voice commands.
+
 # KIFT
 ### USAGE
 
